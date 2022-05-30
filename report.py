@@ -1,3 +1,4 @@
+# Code to scrape and send jobs posts for listed telegram subs on a specified frequency
 import os
 import sys
 import telebot
